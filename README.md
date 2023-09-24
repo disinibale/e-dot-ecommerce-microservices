@@ -45,7 +45,8 @@ Tech Stack: Node.js, Express, MongoDB, Docker, RabbitMQ, Mocha, Chai
 - Since I haven't been able to finish up all the requirements such as the Warehouse and Shop Services, I may need to improve these services to be developed in the future.
 
 ## Criticism and Suggestions For The Hiring Process
-I think that the hiring process of the e-dot company needs to reconsider the time allocated for us as candidates to complete the tasks given, especially in completing this task, because it is to build, design, and develop backend services for a complete e-commerce and stock management system I can say that in just one day it is an impossible thing that can only be done in one day.
+The hiring process of eDOT Company needs to reconsider the time allocated for the candidates to complete the tasks, especially in completing this task. 
+To build, design, and develop backend services for a complete e-commerce and stock management system takes more than just one day. I can say that it is impossible to finish the task just in one day.
 
 ## Conclusion
 In developing a backend system for e-commerce, we can separate the modules that we can consider in terms of scaling by using NodeJS and MessageBroker as well as maximizing the system architecture by using The Clean Architecture so that each existing service and module can communicate well, from the task what I received I believe that to build a good system we need to consider the time given because we also have to do research and allocate time to consider other technical matters, after we find the best solution for the problem faced/accepted then we will be able to provide a solution that best for the problem.
